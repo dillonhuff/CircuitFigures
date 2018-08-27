@@ -6,6 +6,7 @@ Elements in CircuitFigures.pptx:
 * Multiplexer
 * Register
 * ALU
+* Buffer
 * Several different buses
 * General width memories
 * 32 bit instruction template
