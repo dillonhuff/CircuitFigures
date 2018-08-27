@@ -2,7 +2,7 @@
 
 This repo contains common circuit elements drawn in microsoft powerpoint.
 
-Currently CircuitFigures.pptx contains drawings of
+Elements in CircuitFigures.pptx:
 * Multiplexer
 * Register
 * ALU
